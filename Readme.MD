@@ -15,9 +15,9 @@
 - /login  
 - /register
 - /logout
-### To execute the back end: 
+### First execute the back end: 
 `python3 app.py`
-
+- //localhost:5000 port
 ## React requirements
 - To install node modules and other dependencies  
 `npm install`  
@@ -33,3 +33,7 @@
 4. react-datepicker
 5. date-fns
 
+- //localhost:3000 port  
+
+
+Key code: gAAAAABiL3rqdVf2G7W4eb4LatXn1PsGzo3ohtwfQRr6r9xkKyNHwHeOy3RR9XWsGynR9-nwmMxty-PBnB-oS6h5AdevdrTkeXtc5o2-fTWEPzX0fmmV6uC2yZ7qBtMB-87X-hXMi95eQ4C97XPRxbL-wbwt1b1RUxVLyz5FQy4S4y9Kn9CVUbGEaaCXPuyyilOUtTw1WSFGWz7dc7ZCbZCSF2d2Ft5t5XWbYVShZm_kkSME9GgPWts=  
