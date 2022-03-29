@@ -35,5 +35,8 @@
 
 - //localhost:3000 port  
 
+ *Dummy User* : 
+ Username : ahnaf@gmail.com
+ password: 123456
 
-Key code: gAAAAABiL3rqdVf2G7W4eb4LatXn1PsGzo3ohtwfQRr6r9xkKyNHwHeOy3RR9XWsGynR9-nwmMxty-PBnB-oS6h5AdevdrTkeXtc5o2-fTWEPzX0fmmV6uC2yZ7qBtMB-87X-hXMi95eQ4C97XPRxbL-wbwt1b1RUxVLyz5FQy4S4y9Kn9CVUbGEaaCXPuyyilOUtTw1WSFGWz7dc7ZCbZCSF2d2Ft5t5XWbYVShZm_kkSME9GgPWts=  
+**Key code:** gAAAAABiL3rqdVf2G7W4eb4LatXn1PsGzo3ohtwfQRr6r9xkKyNHwHeOy3RR9XWsGynR9-nwmMxty-PBnB-oS6h5AdevdrTkeXtc5o2-fTWEPzX0fmmV6uC2yZ7qBtMB-87X-hXMi95eQ4C97XPRxbL-wbwt1b1RUxVLyz5FQy4S4y9Kn9CVUbGEaaCXPuyyilOUtTw1WSFGWz7dc7ZCbZCSF2d2Ft5t5XWbYVShZm_kkSME9GgPWts=  
