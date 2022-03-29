@@ -1,0 +1,34 @@
+Tebrikler Burak Kepuc, gorev icerigine ulastin!
+
+Iste bekledigimiz gorevin gereksinimleri;
+
+Tercih ettiginiz bir arka uc dili (tercihen Java / Go / PHP / Python) ve on yuz js catisi ile (tercihen Vue / React / Angular)
+
+Temel seviyede kullanici uyeligi yapilabilen, oturum acma ve kapatma ozelliklerine sahip bir web projesi gelistirmesi beklenmektedir.
+
+Oturum acan kullanicilar anasayfa uzerinde bir takvim gormelidir. Oturum acmamis olanlar ise oturum acmaya yonlendirilmelidir.
+Takvimde kullanicinin kendi ekledigi etkinlikler gosterilmeli, takvime tiklayarak ekleme yapabilmeli veya etkinligi kaldirabilmelidir.
+
+Arka uc 3 micro service seklinde tasarlanmalidir. Account service / Calendar service / Web API service.
+
+Oturum bilgileri icin Redis kullanilmalidir. RDBMS veya NoSQL tercihi istege gore yapilabilir.
+
+Tum on yuz istekleri Web API service tarafindan karsilanmalidir ve servisler kendi aralarinda konusmalidir.
+
+Kod deposunu bize iletirken senden istedigimiz sana ozel anahtar kodu: gAAAAABiL3rqdVf2G7W4eb4LatXn1PsGzo3ohtwfQRr6r9xkKyNHwHeOy3RR9XWsGynR9-nwmMxty-PBnB-oS6h5AdevdrTkeXtc5o2-fTWEPzX0fmmV6uC2yZ7qBtMB-87X-hXMi95eQ4C97XPRxbL-wbwt1b1RUxVLyz5FQy4S4y9Kn9CVUbGEaaCXPuyyilOUtTw1WSFGWz7dc7ZCbZCSF2d2Ft5t5XWbYVShZm_kkSME9GgPWts=
+
+Notlar;
+
+* Uygulamanin ve gerekiyorsa arayuzun Docker ile nasil derlenip calisir hale getirilecegi README olarak yazilmis olmalidir. docker-compose uzerinden tek bir komut ile calisacak sekilde servis edilmelidir.
+Veritabani gibi bagimliliklar da icerisinde yer almalidir.
+
+* README icerisinde servis endpoint'lerine nasil istek atilacagi, arayuz adresinin ne oldugu gibi projenin nasil calistirilacagina dair bilgiler yer almalidir.
+
+* Yukarida verilen sana ozel anahtar kodu da README icerisine eklenmelidir.
+
+* Gorev icerigine ulasmak icin kullanilan kod ve proje GitHub, GitLab, Bitbucket gibi erisime acik bir repo'ya gonderilerek, baglanti adresi insankaynaklari@kartaca.com'a iletilmelidir. Kod deposu uzerinden paylasim saglanamiyorsa, indirilebilir dosyalara ulasmamiz icin bir dosya/baglanti iletilmelidir.
+
+
+Gorevlerdeki tum gereksinimleri yerine getiremediyseniz bile, moralinizi bozmayin ve tamamladiginiz kadarini bizimle mutlaka paylasin.
+
+Kolay gelsin!
